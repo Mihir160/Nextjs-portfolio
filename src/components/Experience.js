@@ -59,14 +59,14 @@ const Experience = () => {
             address=" Mohamdpur, Dhaka - 1207"
             work="Worked on a team responsible for developing a new Website feature that allowed users to create and share short-form video content, including designing and implementing a new user interface and developing the backend infrastructure to support the feature."
           ></Details>
-          <Details
+          {/* <Details
             position="MERN Developer"
             company="AmeliaSoft"
             companyLink="https://www.ameliasoft.com/"
             time="2023-(January-March)"
             address=" Mohamdpur, Dhaka - 1207"
             work="Worked on a team responsible for developing a new Website feature that allowed users to create and share short-form video content, including designing and implementing a new user interface and developing the backend infrastructure to support the feature."
-          ></Details>
+          ></Details> */}
         </ul>
       </div>
     </div>

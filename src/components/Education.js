@@ -49,12 +49,7 @@ const Education = () => {
             place=" Bangladesh Army University of Science and Technology"
             info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
           ></Details>
-          <Details
-            type="Bachelor of Science in Computer Science and Engineering"
-            time="2017-2023"
-            place=" Bangladesh Army University of Science and Technology"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
-          ></Details>
+      
         </ul>
       </div>
     </div>
